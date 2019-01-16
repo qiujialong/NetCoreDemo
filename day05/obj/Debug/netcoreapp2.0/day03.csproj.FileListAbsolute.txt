@@ -1,0 +1,33 @@
+G:\课件\03day\day03\day03\bin\Debug\netcoreapp2.0\day03.deps.json
+G:\课件\03day\day03\day03\bin\Debug\netcoreapp2.0\day03.runtimeconfig.json
+G:\课件\03day\day03\day03\bin\Debug\netcoreapp2.0\day03.runtimeconfig.dev.json
+G:\课件\03day\day03\day03\bin\Debug\netcoreapp2.0\day03.dll
+G:\课件\03day\day03\day03\bin\Debug\netcoreapp2.0\day03.pdb
+G:\课件\03day\day03\day03\obj\Debug\netcoreapp2.0\day03.csprojResolveAssemblyReference.cache
+G:\课件\03day\day03\day03\obj\Debug\netcoreapp2.0\day03.csproj.CoreCompileInputs.cache
+G:\课件\03day\day03\day03\obj\Debug\netcoreapp2.0\day03.AssemblyInfoInputs.cache
+G:\课件\03day\day03\day03\obj\Debug\netcoreapp2.0\day03.AssemblyInfo.cs
+G:\课件\03day\day03\day03\obj\Debug\netcoreapp2.0\day03.dll
+G:\课件\03day\day03\day03\obj\Debug\netcoreapp2.0\day03.pdb
+G:\课件\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.deps.json
+G:\课件\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.runtimeconfig.json
+G:\课件\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.runtimeconfig.dev.json
+G:\课件\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.dll
+G:\课件\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.pdb
+G:\课件\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.csprojResolveAssemblyReference.cache
+G:\课件\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.csproj.CoreCompileInputs.cache
+G:\课件\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.AssemblyInfoInputs.cache
+G:\课件\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.AssemblyInfo.cs
+G:\课件\05day\day05\day05\obj\Debug\netcoreapp2.0\day05.dll
+G:\课件\05day\day05\day05\obj\Debug\netcoreapp2.0\day05.pdb
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.deps.json
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.runtimeconfig.json
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.runtimeconfig.dev.json
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.dll
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\bin\Debug\netcoreapp2.0\day05.pdb
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.csprojAssemblyReference.cache
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.csproj.CoreCompileInputs.cache
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.AssemblyInfoInputs.cache
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\obj\Debug\netcoreapp2.0\day03.AssemblyInfo.cs
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\obj\Debug\netcoreapp2.0\day05.dll
+D:\Work\Movie\ASP.NET Core2.0项目实战\06配置文件\05day\05day\day05\day05\obj\Debug\netcoreapp2.0\day05.pdb

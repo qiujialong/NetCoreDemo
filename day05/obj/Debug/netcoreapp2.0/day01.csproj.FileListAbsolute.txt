@@ -1,0 +1,11 @@
+G:\课件\01day\day01\day01\bin\Debug\netcoreapp2.0\day01.deps.json
+G:\课件\01day\day01\day01\bin\Debug\netcoreapp2.0\day01.runtimeconfig.json
+G:\课件\01day\day01\day01\bin\Debug\netcoreapp2.0\day01.runtimeconfig.dev.json
+G:\课件\01day\day01\day01\bin\Debug\netcoreapp2.0\day01.dll
+G:\课件\01day\day01\day01\bin\Debug\netcoreapp2.0\day01.pdb
+G:\课件\01day\day01\day01\obj\Debug\netcoreapp2.0\day01.csprojResolveAssemblyReference.cache
+G:\课件\01day\day01\day01\obj\Debug\netcoreapp2.0\day01.csproj.CoreCompileInputs.cache
+G:\课件\01day\day01\day01\obj\Debug\netcoreapp2.0\day01.AssemblyInfoInputs.cache
+G:\课件\01day\day01\day01\obj\Debug\netcoreapp2.0\day01.AssemblyInfo.cs
+G:\课件\01day\day01\day01\obj\Debug\netcoreapp2.0\day01.dll
+G:\课件\01day\day01\day01\obj\Debug\netcoreapp2.0\day01.pdb
